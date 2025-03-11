@@ -64,6 +64,8 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
+The model architecture incorporates multiple dense layers with dropout for regularization, which helps prevent overfitting and improves generalization to unseen text inputs. This balanced approach ensures robust intent classification while maintaining computational efficiency.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
