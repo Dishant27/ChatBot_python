@@ -4,21 +4,21 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3.5+-green.svg?style=for-the-badge&logo=nltk&logoColor=white)
 
-An advanced conversational assistant built with Python, NLTK, and TensorFlow that comprehends natural language queries and delivers contextually appropriate responses. This ChatBot implementation showcases fundamental NLP (Natural Language Processing) concepts and neural network-based text classification techniques.
+An intelligent conversational assistant built with Python, NLTK, and TensorFlow that comprehends natural language queries and delivers contextually appropriate responses. This ChatBot implementation demonstrates powerful NLP (Natural Language Processing) concepts and neural network-based text classification techniques.
 
 ## ✨ Key Features
 
 - **Natural Language Understanding**: Process and interpret human language input
 - **Intent Classification**: Recognize user intent through neural network classification
 - **Response Generation**: Deliver contextually relevant answers from a knowledge base
-- **Conversation Memory**: Preserve context throughout conversation sessions
+- **Conversation Memory**: Maintain context throughout dialogue sessions
 - **Extensible Architecture**: Simple to enhance with additional intents and responses
 
 ## 🛠️ Technology Stack
 
 - **Python 3.7+**: Primary programming language
 - **NLTK**: For text preprocessing, tokenization, and linguistic analysis
-- **TensorFlow/Keras**: For neural network model development and inference
+- **TensorFlow/Keras**: For state-of-the-art neural network model development and inference
 - **JSON**: For storing intents and responses data
 
 ## 📋 Project Structure
