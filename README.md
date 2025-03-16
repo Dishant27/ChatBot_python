@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3.5+-green.svg?style=for-the-badge&logo=nltk&logoColor=white)
 
-An intelligent conversational assistant built with Python, NLTK, and TensorFlow that comprehends natural language queries and delivers contextually appropriate responses. This ChatBot implementation demonstrates powerful NLP (Natural Language Processing) concepts and neural network-based text classification techniques.
+A highly intelligent conversational agent built with Python, NLTK, and TensorFlow that comprehends natural language queries and delivers contextually appropriate responses. This ChatBot implementation demonstrates advanced NLP (Natural Language Processing) concepts and neural network-based text classification techniques.
 
 ## ✨ Key Features
 
