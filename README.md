@@ -1,4 +1,4 @@
-# 🤖 Python NLTK ChatBot
+# 🤖 Python NLTK ChatBot with Advanced NLU Capabilities
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -25,13 +25,13 @@ A highly intelligent conversational agent built with Python, NLTK, and TensorFlo
 
 ```
 ChatBot_python/
-├── intents.json         # Training data with intents and responses
-├── train_chatbot.py     # Script for training the neural network
-├── chatbot.py           # Main chatbot implementation
-├── words.pkl            # Serialized vocabulary (generated)
-├── classes.pkl          # Serialized intent classes (generated)
-├── chatbot_model.h5     # Trained neural network model
-└── README.md            # Project documentation
+├─ intents.json         # Training data with intents and responses
+├─ train_chatbot.py     # Script for training the neural network
+├─ chatbot.py           # Main chatbot implementation
+├─ words.pkl            # Serialized vocabulary (generated)
+├─ classes.pkl          # Serialized intent classes (generated)
+├─ chatbot_model.h5     # Trained neural network model
+└─ README.md            # Project documentation
 ```
 
 ## 🧠 How It Works
