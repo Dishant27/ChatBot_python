@@ -128,7 +128,7 @@ This ChatBot can be easily tailored for specific domains or use cases:
 
 Contributions are always welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -139,3 +139,5 @@ For questions or feedback, please reach out through GitHub issues.
 ---
 
 **Note**: This is the core implementation of the ChatBot which can be customized and expanded for specific organizational requirements.
+
+## 👍 Improved Interface
